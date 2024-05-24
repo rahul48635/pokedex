@@ -9,3 +9,5 @@ Currently, two official plugins are available:
 <img src="https://github.com/rahul48635/pokedex/blob/main/Screenshot%202024-05-24%20062555.png"/>
 <img src="https://github.com/rahul48635/pokedex/blob/main/Screenshot%202024-05-24%20062621.png"/>
 <img src="https://github.com/rahul48635/pokedex/blob/main/Screenshot%202024-05-24%20062656.png"/>
+<img src="https://github.com/rahul48635/pokedex/blob/main/Screenshot%202024-05-24%20063639.png"/>
+<img src="https://github.com/rahul48635/pokedex/blob/main/Screenshot%202024-05-24%20063704.png"/>
